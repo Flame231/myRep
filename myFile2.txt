@@ -1,1 +1,1 @@
-my 2 commit!123
+my 2 commit!123 amend
